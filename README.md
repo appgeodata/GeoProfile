@@ -1,7 +1,7 @@
 # GeoProfile
 A profile of this user named, George Williams, MBA, PMP, GISP and BI Analyst.
 Applied GeoData is an LLC developed to allow the user to do freelance work on 1099 and Corp-to-Corp basis.
-My linked in profile is www.linkedin.com/in/geowill2.
+My LinkedIn profile is www.linkedin.com/in/geowill2.
 My professional website is www.appgeodata.com.
 My professional career (1985 to Current) is Two Tiered.
 TIER ONE:  Geo-Environmental Engineering program management focused on (a) Site Assessments (b) UST Closures and Subsurface Environmental Investigation (c) Soil and Groundwater Remediation
